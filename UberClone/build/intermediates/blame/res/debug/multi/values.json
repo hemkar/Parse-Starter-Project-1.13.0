@@ -2331,11 +2331,11 @@
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\src\\main\\res\\values\\dimens.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 403,
+                        "startOffset": 88,
                         "endColumn": 57,
-                        "endOffset": 456
+                        "endOffset": 141
                     }
                 }
             },
@@ -2350,11 +2350,11 @@
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\src\\main\\res\\values\\dimens.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 461,
+                        "startOffset": 146,
                         "endColumn": 55,
-                        "endOffset": 512
+                        "endOffset": 197
                     }
                 }
             },
@@ -3148,11 +3148,11 @@
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 596,
+                        "startOffset": 243,
                         "endColumn": 52,
-                        "endOffset": 644
+                        "endOffset": 291
                     }
                 }
             },
@@ -3161,17 +3161,17 @@
                     "startLine": 193,
                     "startColumn": 4,
                     "startOffset": 26772,
-                    "endColumn": 46,
-                    "endOffset": 26814
+                    "endColumn": 47,
+                    "endOffset": 26815
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 495,
-                        "endColumn": 46,
-                        "endOffset": 537
+                        "startOffset": 141,
+                        "endColumn": 47,
+                        "endOffset": 184
                     }
                 }
             },
@@ -3179,18 +3179,18 @@
                 "to": {
                     "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 26819,
+                    "startOffset": 26820,
                     "endColumn": 52,
-                    "endOffset": 26867
+                    "endOffset": 26868
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 543,
+                        "startOffset": 190,
                         "endColumn": 52,
-                        "endOffset": 591
+                        "endOffset": 238
                     }
                 }
             },
@@ -3198,18 +3198,18 @@
                 "to": {
                     "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 26872,
+                    "startOffset": 26873,
                     "endColumn": 59,
-                    "endOffset": 26927
+                    "endOffset": 26928
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 1,
                         "startColumn": 4,
-                        "startOffset": 370,
+                        "startOffset": 16,
                         "endColumn": 59,
-                        "endOffset": 425
+                        "endOffset": 71
                     }
                 }
             },
@@ -3217,18 +3217,18 @@
                 "to": {
                     "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 26932,
+                    "startOffset": 26933,
                     "endColumn": 63,
-                    "endOffset": 26991
+                    "endOffset": 26992
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 430,
+                        "startOffset": 76,
                         "endColumn": 63,
-                        "endOffset": 489
+                        "endOffset": 135
                     }
                 }
             },
@@ -3236,9 +3236,9 @@
                 "to": {
                     "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 26996,
+                    "startOffset": 26997,
                     "endColumn": 70,
-                    "endOffset": 27062
+                    "endOffset": 27063
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3255,9 +3255,9 @@
                 "to": {
                     "startLine": 198,
                     "startColumn": 4,
-                    "startOffset": 27067,
+                    "startOffset": 27068,
                     "endColumn": 77,
-                    "endOffset": 27140
+                    "endOffset": 27141
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3274,9 +3274,9 @@
                 "to": {
                     "startLine": 199,
                     "startColumn": 4,
-                    "startOffset": 27145,
+                    "startOffset": 27146,
                     "endColumn": 89,
-                    "endOffset": 27230
+                    "endOffset": 27231
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3293,9 +3293,9 @@
                 "to": {
                     "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 27235,
+                    "startOffset": 27236,
                     "endColumn": 87,
-                    "endOffset": 27318
+                    "endOffset": 27319
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3312,9 +3312,9 @@
                 "to": {
                     "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 27323,
+                    "startOffset": 27324,
                     "endColumn": 95,
-                    "endOffset": 27414
+                    "endOffset": 27415
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3331,20 +3331,20 @@
                 "to": {
                     "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 27419,
+                    "startOffset": 27420,
                     "endLine": 204,
                     "endColumn": 12,
-                    "endOffset": 27544
+                    "endOffset": 27534
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\src\\main\\res\\values\\styles.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 369,
-                        "endLine": 13,
+                        "startOffset": 54,
+                        "endLine": 5,
                         "endColumn": 12,
-                        "endOffset": 494
+                        "endOffset": 168
                     }
                 }
             },
@@ -3352,10 +3352,10 @@
                 "to": {
                     "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 27549,
+                    "startOffset": 27539,
                     "endLine": 211,
                     "endColumn": 12,
-                    "endOffset": 28045
+                    "endOffset": 28035
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3373,9 +3373,9 @@
                 "to": {
                     "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 28050,
+                    "startOffset": 28040,
                     "endColumn": 88,
-                    "endOffset": 28134
+                    "endOffset": 28124
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3392,10 +3392,10 @@
                 "to": {
                     "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 28139,
+                    "startOffset": 28129,
                     "endLine": 216,
                     "endColumn": 12,
-                    "endOffset": 28381
+                    "endOffset": 28371
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3413,10 +3413,10 @@
                 "to": {
                     "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 28386,
+                    "startOffset": 28376,
                     "endLine": 220,
                     "endColumn": 12,
-                    "endOffset": 28662
+                    "endOffset": 28652
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3434,10 +3434,10 @@
                 "to": {
                     "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 28667,
+                    "startOffset": 28657,
                     "endLine": 225,
                     "endColumn": 12,
-                    "endOffset": 28947
+                    "endOffset": 28937
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3455,10 +3455,10 @@
                 "to": {
                     "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 28952,
+                    "startOffset": 28942,
                     "endLine": 231,
                     "endColumn": 12,
-                    "endOffset": 29340
+                    "endOffset": 29330
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3476,10 +3476,10 @@
                 "to": {
                     "startLine": 232,
                     "startColumn": 4,
-                    "startOffset": 29345,
+                    "startOffset": 29335,
                     "endLine": 238,
                     "endColumn": 12,
-                    "endOffset": 29817
+                    "endOffset": 29807
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3497,10 +3497,10 @@
                 "to": {
                     "startLine": 239,
                     "startColumn": 4,
-                    "startOffset": 29822,
+                    "startOffset": 29812,
                     "endLine": 242,
                     "endColumn": 12,
-                    "endOffset": 30039
+                    "endOffset": 30029
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3518,10 +3518,10 @@
                 "to": {
                     "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 30044,
+                    "startOffset": 30034,
                     "endLine": 246,
                     "endColumn": 12,
-                    "endOffset": 30261
+                    "endOffset": 30251
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3539,10 +3539,10 @@
                 "to": {
                     "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 30266,
+                    "startOffset": 30256,
                     "endLine": 251,
                     "endColumn": 12,
-                    "endOffset": 30529
+                    "endOffset": 30519
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3560,10 +3560,10 @@
                 "to": {
                     "startLine": 252,
                     "startColumn": 4,
-                    "startOffset": 30534,
+                    "startOffset": 30524,
                     "endLine": 255,
                     "endColumn": 12,
-                    "endOffset": 30756
+                    "endOffset": 30746
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3581,10 +3581,10 @@
                 "to": {
                     "startLine": 256,
                     "startColumn": 4,
-                    "startOffset": 30761,
+                    "startOffset": 30751,
                     "endLine": 259,
                     "endColumn": 12,
-                    "endOffset": 30986
+                    "endOffset": 30976
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3602,10 +3602,10 @@
                 "to": {
                     "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 30991,
+                    "startOffset": 30981,
                     "endLine": 263,
                     "endColumn": 12,
-                    "endOffset": 31216
+                    "endOffset": 31206
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3623,10 +3623,10 @@
                 "to": {
                     "startLine": 264,
                     "startColumn": 4,
-                    "startOffset": 31221,
+                    "startOffset": 31211,
                     "endLine": 267,
                     "endColumn": 12,
-                    "endOffset": 31446
+                    "endOffset": 31436
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3644,10 +3644,10 @@
                 "to": {
                     "startLine": 268,
                     "startColumn": 4,
-                    "startOffset": 31451,
+                    "startOffset": 31441,
                     "endLine": 271,
                     "endColumn": 12,
-                    "endOffset": 31676
+                    "endOffset": 31666
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3665,10 +3665,10 @@
                 "to": {
                     "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 31681,
+                    "startOffset": 31671,
                     "endLine": 275,
                     "endColumn": 12,
-                    "endOffset": 31903
+                    "endOffset": 31893
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3686,10 +3686,10 @@
                 "to": {
                     "startLine": 276,
                     "startColumn": 4,
-                    "startOffset": 31908,
+                    "startOffset": 31898,
                     "endLine": 279,
                     "endColumn": 12,
-                    "endOffset": 32142
+                    "endOffset": 32132
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3707,10 +3707,10 @@
                 "to": {
                     "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 32147,
+                    "startOffset": 32137,
                     "endLine": 283,
                     "endColumn": 12,
-                    "endOffset": 32368
+                    "endOffset": 32358
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3728,10 +3728,10 @@
                 "to": {
                     "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 32373,
+                    "startOffset": 32363,
                     "endLine": 287,
                     "endColumn": 12,
-                    "endOffset": 32613
+                    "endOffset": 32603
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3749,10 +3749,10 @@
                 "to": {
                     "startLine": 288,
                     "startColumn": 4,
-                    "startOffset": 32618,
+                    "startOffset": 32608,
                     "endLine": 289,
                     "endColumn": 12,
-                    "endOffset": 32743
+                    "endOffset": 32733
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3770,10 +3770,10 @@
                 "to": {
                     "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 32748,
+                    "startOffset": 32738,
                     "endLine": 291,
                     "endColumn": 12,
-                    "endOffset": 32873
+                    "endOffset": 32863
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3791,10 +3791,10 @@
                 "to": {
                     "startLine": 292,
                     "startColumn": 4,
-                    "startOffset": 32878,
+                    "startOffset": 32868,
                     "endLine": 295,
                     "endColumn": 12,
-                    "endOffset": 33103
+                    "endOffset": 33093
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3812,10 +3812,10 @@
                 "to": {
                     "startLine": 296,
                     "startColumn": 4,
-                    "startOffset": 33108,
+                    "startOffset": 33098,
                     "endLine": 299,
                     "endColumn": 12,
-                    "endOffset": 33351
+                    "endOffset": 33341
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3833,10 +3833,10 @@
                 "to": {
                     "startLine": 300,
                     "startColumn": 4,
-                    "startOffset": 33356,
+                    "startOffset": 33346,
                     "endLine": 303,
                     "endColumn": 12,
-                    "endOffset": 33570
+                    "endOffset": 33560
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3854,10 +3854,10 @@
                 "to": {
                     "startLine": 304,
                     "startColumn": 4,
-                    "startOffset": 33575,
+                    "startOffset": 33565,
                     "endLine": 308,
                     "endColumn": 12,
-                    "endOffset": 33853
+                    "endOffset": 33843
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3875,10 +3875,10 @@
                 "to": {
                     "startLine": 309,
                     "startColumn": 4,
-                    "startOffset": 33858,
+                    "startOffset": 33848,
                     "endLine": 312,
                     "endColumn": 12,
-                    "endOffset": 34061
+                    "endOffset": 34051
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3896,10 +3896,10 @@
                 "to": {
                     "startLine": 313,
                     "startColumn": 4,
-                    "startOffset": 34066,
+                    "startOffset": 34056,
                     "endLine": 315,
                     "endColumn": 12,
-                    "endOffset": 34192
+                    "endOffset": 34182
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3917,10 +3917,10 @@
                 "to": {
                     "startLine": 316,
                     "startColumn": 4,
-                    "startOffset": 34197,
+                    "startOffset": 34187,
                     "endLine": 319,
                     "endColumn": 12,
-                    "endOffset": 34419
+                    "endOffset": 34409
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3938,10 +3938,10 @@
                 "to": {
                     "startLine": 320,
                     "startColumn": 4,
-                    "startOffset": 34424,
+                    "startOffset": 34414,
                     "endLine": 323,
                     "endColumn": 12,
-                    "endOffset": 34665
+                    "endOffset": 34655
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3959,10 +3959,10 @@
                 "to": {
                     "startLine": 324,
                     "startColumn": 4,
-                    "startOffset": 34670,
+                    "startOffset": 34660,
                     "endLine": 327,
                     "endColumn": 12,
-                    "endOffset": 34890
+                    "endOffset": 34880
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -3980,10 +3980,10 @@
                 "to": {
                     "startLine": 328,
                     "startColumn": 4,
-                    "startOffset": 34895,
+                    "startOffset": 34885,
                     "endLine": 331,
                     "endColumn": 12,
-                    "endOffset": 35139
+                    "endOffset": 35129
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4001,10 +4001,10 @@
                 "to": {
                     "startLine": 332,
                     "startColumn": 4,
-                    "startOffset": 35144,
+                    "startOffset": 35134,
                     "endLine": 335,
                     "endColumn": 12,
-                    "endOffset": 35360
+                    "endOffset": 35350
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4022,10 +4022,10 @@
                 "to": {
                     "startLine": 336,
                     "startColumn": 4,
-                    "startOffset": 35365,
+                    "startOffset": 35355,
                     "endLine": 339,
                     "endColumn": 12,
-                    "endOffset": 35605
+                    "endOffset": 35595
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4043,10 +4043,10 @@
                 "to": {
                     "startLine": 340,
                     "startColumn": 4,
-                    "startOffset": 35610,
+                    "startOffset": 35600,
                     "endLine": 344,
                     "endColumn": 12,
-                    "endOffset": 35900
+                    "endOffset": 35890
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4064,10 +4064,10 @@
                 "to": {
                     "startLine": 345,
                     "startColumn": 4,
-                    "startOffset": 35905,
+                    "startOffset": 35895,
                     "endLine": 347,
                     "endColumn": 12,
-                    "endOffset": 36122
+                    "endOffset": 36112
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4085,10 +4085,10 @@
                 "to": {
                     "startLine": 348,
                     "startColumn": 4,
-                    "startOffset": 36127,
+                    "startOffset": 36117,
                     "endLine": 350,
                     "endColumn": 12,
-                    "endOffset": 36360
+                    "endOffset": 36350
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4106,10 +4106,10 @@
                 "to": {
                     "startLine": 351,
                     "startColumn": 4,
-                    "startOffset": 36365,
+                    "startOffset": 36355,
                     "endLine": 353,
                     "endColumn": 12,
-                    "endOffset": 36574
+                    "endOffset": 36564
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4127,10 +4127,10 @@
                 "to": {
                     "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 36579,
+                    "startOffset": 36569,
                     "endLine": 356,
                     "endColumn": 12,
-                    "endOffset": 36804
+                    "endOffset": 36794
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4148,10 +4148,10 @@
                 "to": {
                     "startLine": 357,
                     "startColumn": 4,
-                    "startOffset": 36809,
+                    "startOffset": 36799,
                     "endLine": 359,
                     "endColumn": 12,
-                    "endOffset": 37027
+                    "endOffset": 37017
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4169,10 +4169,10 @@
                 "to": {
                     "startLine": 360,
                     "startColumn": 4,
-                    "startOffset": 37032,
+                    "startOffset": 37022,
                     "endLine": 362,
                     "endColumn": 12,
-                    "endOffset": 37242
+                    "endOffset": 37232
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4190,10 +4190,10 @@
                 "to": {
                     "startLine": 363,
                     "startColumn": 4,
-                    "startOffset": 37247,
+                    "startOffset": 37237,
                     "endLine": 365,
                     "endColumn": 12,
-                    "endOffset": 37450
+                    "endOffset": 37440
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4211,10 +4211,10 @@
                 "to": {
                     "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 37455,
+                    "startOffset": 37445,
                     "endLine": 367,
                     "endColumn": 12,
-                    "endOffset": 37574
+                    "endOffset": 37564
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4232,10 +4232,10 @@
                 "to": {
                     "startLine": 368,
                     "startColumn": 4,
-                    "startOffset": 37579,
+                    "startOffset": 37569,
                     "endLine": 369,
                     "endColumn": 12,
-                    "endOffset": 37698
+                    "endOffset": 37688
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4253,9 +4253,9 @@
                 "to": {
                     "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 37703,
+                    "startOffset": 37693,
                     "endColumn": 104,
-                    "endOffset": 37803
+                    "endOffset": 37793
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4272,9 +4272,9 @@
                 "to": {
                     "startLine": 371,
                     "startColumn": 4,
-                    "startOffset": 37808,
+                    "startOffset": 37798,
                     "endColumn": 116,
-                    "endOffset": 37920
+                    "endOffset": 37910
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4291,10 +4291,10 @@
                 "to": {
                     "startLine": 372,
                     "startColumn": 4,
-                    "startOffset": 37925,
+                    "startOffset": 37915,
                     "endLine": 374,
                     "endColumn": 12,
-                    "endOffset": 38134
+                    "endOffset": 38124
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4312,10 +4312,10 @@
                 "to": {
                     "startLine": 375,
                     "startColumn": 4,
-                    "startOffset": 38139,
+                    "startOffset": 38129,
                     "endLine": 376,
                     "endColumn": 12,
-                    "endOffset": 38280
+                    "endOffset": 38270
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4333,10 +4333,10 @@
                 "to": {
                     "startLine": 377,
                     "startColumn": 4,
-                    "startOffset": 38285,
+                    "startOffset": 38275,
                     "endLine": 378,
                     "endColumn": 12,
-                    "endOffset": 38420
+                    "endOffset": 38410
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4354,10 +4354,10 @@
                 "to": {
                     "startLine": 379,
                     "startColumn": 4,
-                    "startOffset": 38425,
+                    "startOffset": 38415,
                     "endLine": 380,
                     "endColumn": 12,
-                    "endOffset": 38506
+                    "endOffset": 38496
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4375,10 +4375,10 @@
                 "to": {
                     "startLine": 381,
                     "startColumn": 4,
-                    "startOffset": 38511,
+                    "startOffset": 38501,
                     "endLine": 385,
                     "endColumn": 12,
-                    "endOffset": 38854
+                    "endOffset": 38844
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4396,9 +4396,9 @@
                 "to": {
                     "startLine": 386,
                     "startColumn": 4,
-                    "startOffset": 38859,
+                    "startOffset": 38849,
                     "endColumn": 87,
-                    "endOffset": 38942
+                    "endOffset": 38932
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4415,10 +4415,10 @@
                 "to": {
                     "startLine": 387,
                     "startColumn": 4,
-                    "startOffset": 38947,
+                    "startOffset": 38937,
                     "endLine": 390,
                     "endColumn": 12,
-                    "endOffset": 39172
+                    "endOffset": 39162
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4436,10 +4436,10 @@
                 "to": {
                     "startLine": 391,
                     "startColumn": 4,
-                    "startOffset": 39177,
+                    "startOffset": 39167,
                     "endLine": 396,
                     "endColumn": 12,
-                    "endOffset": 39574
+                    "endOffset": 39564
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4457,10 +4457,10 @@
                 "to": {
                     "startLine": 397,
                     "startColumn": 4,
-                    "startOffset": 39579,
+                    "startOffset": 39569,
                     "endLine": 400,
                     "endColumn": 12,
-                    "endOffset": 39807
+                    "endOffset": 39797
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4478,9 +4478,9 @@
                 "to": {
                     "startLine": 401,
                     "startColumn": 4,
-                    "startOffset": 39812,
+                    "startOffset": 39802,
                     "endColumn": 81,
-                    "endOffset": 39889
+                    "endOffset": 39879
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4497,10 +4497,10 @@
                 "to": {
                     "startLine": 402,
                     "startColumn": 4,
-                    "startOffset": 39894,
+                    "startOffset": 39884,
                     "endLine": 403,
                     "endColumn": 12,
-                    "endOffset": 39987
+                    "endOffset": 39977
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4518,10 +4518,10 @@
                 "to": {
                     "startLine": 404,
                     "startColumn": 4,
-                    "startOffset": 39992,
+                    "startOffset": 39982,
                     "endLine": 414,
                     "endColumn": 12,
-                    "endOffset": 40604
+                    "endOffset": 40594
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4539,9 +4539,9 @@
                 "to": {
                     "startLine": 415,
                     "startColumn": 4,
-                    "startOffset": 40609,
+                    "startOffset": 40599,
                     "endColumn": 99,
-                    "endOffset": 40704
+                    "endOffset": 40694
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4558,10 +4558,10 @@
                 "to": {
                     "startLine": 416,
                     "startColumn": 4,
-                    "startOffset": 40709,
+                    "startOffset": 40699,
                     "endLine": 419,
                     "endColumn": 12,
-                    "endOffset": 40940
+                    "endOffset": 40930
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4579,10 +4579,10 @@
                 "to": {
                     "startLine": 420,
                     "startColumn": 4,
-                    "startOffset": 40945,
+                    "startOffset": 40935,
                     "endLine": 425,
                     "endColumn": 12,
-                    "endOffset": 41348
+                    "endOffset": 41338
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4600,10 +4600,10 @@
                 "to": {
                     "startLine": 426,
                     "startColumn": 4,
-                    "startOffset": 41353,
+                    "startOffset": 41343,
                     "endLine": 429,
                     "endColumn": 12,
-                    "endOffset": 41587
+                    "endOffset": 41577
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4621,9 +4621,9 @@
                 "to": {
                     "startLine": 430,
                     "startColumn": 4,
-                    "startOffset": 41592,
+                    "startOffset": 41582,
                     "endColumn": 93,
-                    "endOffset": 41681
+                    "endOffset": 41671
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4640,9 +4640,9 @@
                 "to": {
                     "startLine": 431,
                     "startColumn": 4,
-                    "startOffset": 41686,
+                    "startOffset": 41676,
                     "endColumn": 57,
-                    "endOffset": 41739
+                    "endOffset": 41729
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4659,10 +4659,10 @@
                 "to": {
                     "startLine": 432,
                     "startColumn": 4,
-                    "startOffset": 41744,
+                    "startOffset": 41734,
                     "endLine": 435,
                     "endColumn": 12,
-                    "endOffset": 41976
+                    "endOffset": 41966
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4680,10 +4680,10 @@
                 "to": {
                     "startLine": 436,
                     "startColumn": 4,
-                    "startOffset": 41981,
+                    "startOffset": 41971,
                     "endLine": 462,
                     "endColumn": 12,
-                    "endOffset": 43976
+                    "endOffset": 43966
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4701,10 +4701,10 @@
                 "to": {
                     "startLine": 463,
                     "startColumn": 4,
-                    "startOffset": 43981,
+                    "startOffset": 43971,
                     "endLine": 466,
                     "endColumn": 12,
-                    "endOffset": 44218
+                    "endOffset": 44208
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4722,10 +4722,10 @@
                 "to": {
                     "startLine": 467,
                     "startColumn": 4,
-                    "startOffset": 44223,
+                    "startOffset": 44213,
                     "endLine": 494,
                     "endColumn": 12,
-                    "endOffset": 46396
+                    "endOffset": 46386
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4743,10 +4743,10 @@
                 "to": {
                     "startLine": 495,
                     "startColumn": 4,
-                    "startOffset": 46401,
+                    "startOffset": 46391,
                     "endLine": 640,
                     "endColumn": 12,
-                    "endOffset": 55675
+                    "endOffset": 55665
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4764,10 +4764,10 @@
                 "to": {
                     "startLine": 641,
                     "startColumn": 4,
-                    "startOffset": 55680,
+                    "startOffset": 55670,
                     "endLine": 662,
                     "endColumn": 12,
-                    "endOffset": 56942
+                    "endOffset": 56932
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4785,10 +4785,10 @@
                 "to": {
                     "startLine": 663,
                     "startColumn": 4,
-                    "startOffset": 56947,
+                    "startOffset": 56937,
                     "endLine": 808,
                     "endColumn": 12,
-                    "endOffset": 66331
+                    "endOffset": 66321
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4806,10 +4806,10 @@
                 "to": {
                     "startLine": 809,
                     "startColumn": 4,
-                    "startOffset": 66336,
+                    "startOffset": 66326,
                     "endLine": 830,
                     "endColumn": 12,
-                    "endOffset": 67612
+                    "endOffset": 67602
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4827,10 +4827,10 @@
                 "to": {
                     "startLine": 831,
                     "startColumn": 4,
-                    "startOffset": 67617,
+                    "startOffset": 67607,
                     "endLine": 837,
                     "endColumn": 12,
-                    "endOffset": 68148
+                    "endOffset": 68138
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4848,10 +4848,10 @@
                 "to": {
                     "startLine": 838,
                     "startColumn": 4,
-                    "startOffset": 68153,
+                    "startOffset": 68143,
                     "endLine": 842,
                     "endColumn": 12,
-                    "endOffset": 68478
+                    "endOffset": 68468
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4869,10 +4869,10 @@
                 "to": {
                     "startLine": 843,
                     "startColumn": 4,
-                    "startOffset": 68483,
+                    "startOffset": 68473,
                     "endLine": 863,
                     "endColumn": 12,
-                    "endOffset": 69601
+                    "endOffset": 69591
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4890,10 +4890,10 @@
                 "to": {
                     "startLine": 864,
                     "startColumn": 4,
-                    "startOffset": 69606,
+                    "startOffset": 69596,
                     "endLine": 868,
                     "endColumn": 12,
-                    "endOffset": 69857
+                    "endOffset": 69847
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4911,10 +4911,10 @@
                 "to": {
                     "startLine": 869,
                     "startColumn": 4,
-                    "startOffset": 69862,
+                    "startOffset": 69852,
                     "endLine": 873,
                     "endColumn": 12,
-                    "endOffset": 70093
+                    "endOffset": 70083
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4932,10 +4932,10 @@
                 "to": {
                     "startLine": 874,
                     "startColumn": 4,
-                    "startOffset": 70098,
+                    "startOffset": 70088,
                     "endLine": 883,
                     "endColumn": 12,
-                    "endOffset": 70640
+                    "endOffset": 70630
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4953,10 +4953,10 @@
                 "to": {
                     "startLine": 884,
                     "startColumn": 4,
-                    "startOffset": 70645,
+                    "startOffset": 70635,
                     "endLine": 892,
                     "endColumn": 12,
-                    "endOffset": 71134
+                    "endOffset": 71124
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4974,10 +4974,10 @@
                 "to": {
                     "startLine": 893,
                     "startColumn": 4,
-                    "startOffset": 71139,
+                    "startOffset": 71129,
                     "endLine": 903,
                     "endColumn": 12,
-                    "endOffset": 71807
+                    "endOffset": 71797
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -4995,10 +4995,10 @@
                 "to": {
                     "startLine": 904,
                     "startColumn": 4,
-                    "startOffset": 71812,
+                    "startOffset": 71802,
                     "endLine": 907,
                     "endColumn": 12,
-                    "endOffset": 72022
+                    "endOffset": 72012
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5016,10 +5016,10 @@
                 "to": {
                     "startLine": 908,
                     "startColumn": 4,
-                    "startOffset": 72027,
+                    "startOffset": 72017,
                     "endLine": 914,
                     "endColumn": 12,
-                    "endOffset": 72550
+                    "endOffset": 72540
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5037,10 +5037,10 @@
                 "to": {
                     "startLine": 915,
                     "startColumn": 4,
-                    "startOffset": 72555,
+                    "startOffset": 72545,
                     "endLine": 922,
                     "endColumn": 12,
-                    "endOffset": 73114
+                    "endOffset": 73104
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5058,10 +5058,10 @@
                 "to": {
                     "startLine": 923,
                     "startColumn": 4,
-                    "startOffset": 73119,
+                    "startOffset": 73109,
                     "endLine": 929,
                     "endColumn": 12,
-                    "endOffset": 73489
+                    "endOffset": 73479
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5079,9 +5079,9 @@
                 "to": {
                     "startLine": 930,
                     "startColumn": 4,
-                    "startOffset": 73494,
+                    "startOffset": 73484,
                     "endColumn": 117,
-                    "endOffset": 73607
+                    "endOffset": 73597
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5098,10 +5098,10 @@
                 "to": {
                     "startLine": 931,
                     "startColumn": 4,
-                    "startOffset": 73612,
+                    "startOffset": 73602,
                     "endLine": 939,
                     "endColumn": 12,
-                    "endOffset": 74145
+                    "endOffset": 74135
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5119,10 +5119,10 @@
                 "to": {
                     "startLine": 940,
                     "startColumn": 4,
-                    "startOffset": 74150,
+                    "startOffset": 74140,
                     "endLine": 942,
                     "endColumn": 12,
-                    "endOffset": 74302
+                    "endOffset": 74292
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5140,10 +5140,10 @@
                 "to": {
                     "startLine": 943,
                     "startColumn": 4,
-                    "startOffset": 74307,
+                    "startOffset": 74297,
                     "endLine": 945,
                     "endColumn": 12,
-                    "endOffset": 74446
+                    "endOffset": 74436
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5161,10 +5161,10 @@
                 "to": {
                     "startLine": 946,
                     "startColumn": 4,
-                    "startOffset": 74451,
+                    "startOffset": 74441,
                     "endLine": 950,
                     "endColumn": 12,
-                    "endOffset": 74766
+                    "endOffset": 74756
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5182,10 +5182,10 @@
                 "to": {
                     "startLine": 951,
                     "startColumn": 4,
-                    "startOffset": 74771,
+                    "startOffset": 74761,
                     "endLine": 954,
                     "endColumn": 12,
-                    "endOffset": 74936
+                    "endOffset": 74926
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5203,10 +5203,10 @@
                 "to": {
                     "startLine": 955,
                     "startColumn": 4,
-                    "startOffset": 74941,
+                    "startOffset": 74931,
                     "endLine": 957,
                     "endColumn": 12,
-                    "endOffset": 75077
+                    "endOffset": 75067
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5224,10 +5224,10 @@
                 "to": {
                     "startLine": 958,
                     "startColumn": 4,
-                    "startOffset": 75082,
+                    "startOffset": 75072,
                     "endLine": 960,
                     "endColumn": 12,
-                    "endOffset": 75206
+                    "endOffset": 75196
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5245,10 +5245,10 @@
                 "to": {
                     "startLine": 961,
                     "startColumn": 4,
-                    "startOffset": 75211,
+                    "startOffset": 75201,
                     "endLine": 964,
                     "endColumn": 12,
-                    "endOffset": 75505
+                    "endOffset": 75495
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5266,10 +5266,10 @@
                 "to": {
                     "startLine": 965,
                     "startColumn": 4,
-                    "startOffset": 75510,
+                    "startOffset": 75500,
                     "endLine": 968,
                     "endColumn": 12,
-                    "endOffset": 75808
+                    "endOffset": 75798
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5287,10 +5287,10 @@
                 "to": {
                     "startLine": 969,
                     "startColumn": 4,
-                    "startOffset": 75813,
+                    "startOffset": 75803,
                     "endLine": 976,
                     "endColumn": 12,
-                    "endOffset": 76367
+                    "endOffset": 76357
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5308,10 +5308,10 @@
                 "to": {
                     "startLine": 977,
                     "startColumn": 4,
-                    "startOffset": 76372,
+                    "startOffset": 76362,
                     "endLine": 981,
                     "endColumn": 12,
-                    "endOffset": 76629
+                    "endOffset": 76619
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5329,10 +5329,10 @@
                 "to": {
                     "startLine": 982,
                     "startColumn": 4,
-                    "startOffset": 76634,
+                    "startOffset": 76624,
                     "endLine": 988,
                     "endColumn": 12,
-                    "endOffset": 76979
+                    "endOffset": 76969
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5350,10 +5350,10 @@
                 "to": {
                     "startLine": 989,
                     "startColumn": 4,
-                    "startOffset": 76984,
+                    "startOffset": 76974,
                     "endLine": 994,
                     "endColumn": 12,
-                    "endOffset": 77332
+                    "endOffset": 77322
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5371,9 +5371,9 @@
                 "to": {
                     "startLine": 995,
                     "startColumn": 4,
-                    "startOffset": 77337,
+                    "startOffset": 77327,
                     "endColumn": 93,
-                    "endOffset": 77426
+                    "endOffset": 77416
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5390,10 +5390,10 @@
                 "to": {
                     "startLine": 996,
                     "startColumn": 4,
-                    "startOffset": 77431,
+                    "startOffset": 77421,
                     "endLine": 999,
                     "endColumn": 12,
-                    "endOffset": 77732
+                    "endOffset": 77722
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5411,10 +5411,10 @@
                 "to": {
                     "startLine": 1000,
                     "startColumn": 4,
-                    "startOffset": 77737,
+                    "startOffset": 77727,
                     "endLine": 1004,
                     "endColumn": 12,
-                    "endOffset": 77994
+                    "endOffset": 77984
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5432,10 +5432,10 @@
                 "to": {
                     "startLine": 1005,
                     "startColumn": 4,
-                    "startOffset": 77999,
+                    "startOffset": 77989,
                     "endLine": 1006,
                     "endColumn": 12,
-                    "endOffset": 78119
+                    "endOffset": 78109
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5453,10 +5453,10 @@
                 "to": {
                     "startLine": 1007,
                     "startColumn": 4,
-                    "startOffset": 78124,
+                    "startOffset": 78114,
                     "endLine": 1008,
                     "endColumn": 12,
-                    "endOffset": 78246
+                    "endOffset": 78236
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5474,10 +5474,10 @@
                 "to": {
                     "startLine": 1009,
                     "startColumn": 4,
-                    "startOffset": 78251,
+                    "startOffset": 78241,
                     "endLine": 1011,
                     "endColumn": 12,
-                    "endOffset": 78485
+                    "endOffset": 78475
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5495,10 +5495,10 @@
                 "to": {
                     "startLine": 1012,
                     "startColumn": 4,
-                    "startOffset": 78490,
+                    "startOffset": 78480,
                     "endLine": 1014,
                     "endColumn": 12,
-                    "endOffset": 78696
+                    "endOffset": 78686
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5516,10 +5516,10 @@
                 "to": {
                     "startLine": 1015,
                     "startColumn": 4,
-                    "startOffset": 78701,
+                    "startOffset": 78691,
                     "endLine": 1016,
                     "endColumn": 12,
-                    "endOffset": 78815
+                    "endOffset": 78805
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5537,10 +5537,10 @@
                 "to": {
                     "startLine": 1017,
                     "startColumn": 4,
-                    "startOffset": 78820,
+                    "startOffset": 78810,
                     "endLine": 1020,
                     "endColumn": 12,
-                    "endOffset": 79008
+                    "endOffset": 78998
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5558,10 +5558,10 @@
                 "to": {
                     "startLine": 1021,
                     "startColumn": 4,
-                    "startOffset": 79013,
+                    "startOffset": 79003,
                     "endLine": 1027,
                     "endColumn": 12,
-                    "endOffset": 79463
+                    "endOffset": 79453
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5579,10 +5579,10 @@
                 "to": {
                     "startLine": 1028,
                     "startColumn": 4,
-                    "startOffset": 79468,
+                    "startOffset": 79458,
                     "endLine": 1030,
                     "endColumn": 12,
-                    "endOffset": 79644
+                    "endOffset": 79634
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5600,10 +5600,10 @@
                 "to": {
                     "startLine": 1031,
                     "startColumn": 4,
-                    "startOffset": 79649,
+                    "startOffset": 79639,
                     "endLine": 1033,
                     "endColumn": 12,
-                    "endOffset": 79766
+                    "endOffset": 79756
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5621,10 +5621,10 @@
                 "to": {
                     "startLine": 1034,
                     "startColumn": 4,
-                    "startOffset": 79771,
+                    "startOffset": 79761,
                     "endLine": 1037,
                     "endColumn": 12,
-                    "endOffset": 80025
+                    "endOffset": 80015
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5642,10 +5642,10 @@
                 "to": {
                     "startLine": 1038,
                     "startColumn": 4,
-                    "startOffset": 80030,
+                    "startOffset": 80020,
                     "endLine": 1039,
                     "endColumn": 12,
-                    "endOffset": 80138
+                    "endOffset": 80128
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5663,10 +5663,10 @@
                 "to": {
                     "startLine": 1040,
                     "startColumn": 4,
-                    "startOffset": 80143,
+                    "startOffset": 80133,
                     "endLine": 1043,
                     "endColumn": 12,
-                    "endOffset": 80325
+                    "endOffset": 80315
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5684,10 +5684,10 @@
                 "to": {
                     "startLine": 1044,
                     "startColumn": 4,
-                    "startOffset": 80330,
+                    "startOffset": 80320,
                     "endLine": 1045,
                     "endColumn": 12,
-                    "endOffset": 80427
+                    "endOffset": 80417
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5705,10 +5705,10 @@
                 "to": {
                     "startLine": 1046,
                     "startColumn": 4,
-                    "startOffset": 80432,
+                    "startOffset": 80422,
                     "endLine": 1051,
                     "endColumn": 12,
-                    "endOffset": 80871
+                    "endOffset": 80861
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5726,10 +5726,10 @@
                 "to": {
                     "startLine": 1052,
                     "startColumn": 4,
-                    "startOffset": 80876,
+                    "startOffset": 80866,
                     "endLine": 1053,
                     "endColumn": 12,
-                    "endOffset": 80995
+                    "endOffset": 80985
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5747,10 +5747,10 @@
                 "to": {
                     "startLine": 1054,
                     "startColumn": 4,
-                    "startOffset": 81000,
+                    "startOffset": 80990,
                     "endLine": 1057,
                     "endColumn": 12,
-                    "endOffset": 81280
+                    "endOffset": 81270
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5768,10 +5768,10 @@
                 "to": {
                     "startLine": 1058,
                     "startColumn": 4,
-                    "startOffset": 81285,
+                    "startOffset": 81275,
                     "endLine": 1069,
                     "endColumn": 12,
-                    "endOffset": 82167
+                    "endOffset": 82157
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5789,10 +5789,10 @@
                 "to": {
                     "startLine": 1070,
                     "startColumn": 4,
-                    "startOffset": 82172,
+                    "startOffset": 82162,
                     "endLine": 1075,
                     "endColumn": 12,
-                    "endOffset": 82461
+                    "endOffset": 82451
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5810,10 +5810,10 @@
                 "to": {
                     "startLine": 1076,
                     "startColumn": 4,
-                    "startOffset": 82466,
+                    "startOffset": 82456,
                     "endLine": 1080,
                     "endColumn": 12,
-                    "endOffset": 82791
+                    "endOffset": 82781
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5831,10 +5831,10 @@
                 "to": {
                     "startLine": 1081,
                     "startColumn": 4,
-                    "startOffset": 82796,
+                    "startOffset": 82786,
                     "endLine": 1095,
                     "endColumn": 12,
-                    "endOffset": 83711
+                    "endOffset": 83701
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5852,10 +5852,10 @@
                 "to": {
                     "startLine": 1096,
                     "startColumn": 4,
-                    "startOffset": 83716,
+                    "startOffset": 83706,
                     "endLine": 1098,
                     "endColumn": 12,
-                    "endOffset": 83883
+                    "endOffset": 83873
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5873,10 +5873,10 @@
                 "to": {
                     "startLine": 1099,
                     "startColumn": 4,
-                    "startOffset": 83888,
+                    "startOffset": 83878,
                     "endLine": 1103,
                     "endColumn": 12,
-                    "endOffset": 84219
+                    "endOffset": 84209
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5894,10 +5894,10 @@
                 "to": {
                     "startLine": 1104,
                     "startColumn": 4,
-                    "startOffset": 84224,
+                    "startOffset": 84214,
                     "endLine": 1113,
                     "endColumn": 12,
-                    "endOffset": 84885
+                    "endOffset": 84875
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5915,10 +5915,10 @@
                 "to": {
                     "startLine": 1114,
                     "startColumn": 4,
-                    "startOffset": 84890,
+                    "startOffset": 84880,
                     "endLine": 1118,
                     "endColumn": 12,
-                    "endOffset": 85170
+                    "endOffset": 85160
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5936,10 +5936,10 @@
                 "to": {
                     "startLine": 1119,
                     "startColumn": 4,
-                    "startOffset": 85175,
+                    "startOffset": 85165,
                     "endLine": 1156,
                     "endColumn": 12,
-                    "endOffset": 88059
+                    "endOffset": 88049
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5957,10 +5957,10 @@
                 "to": {
                     "startLine": 1157,
                     "startColumn": 4,
-                    "startOffset": 88064,
+                    "startOffset": 88054,
                     "endLine": 1195,
                     "endColumn": 12,
-                    "endOffset": 91089
+                    "endOffset": 91079
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5978,10 +5978,10 @@
                 "to": {
                     "startLine": 1196,
                     "startColumn": 4,
-                    "startOffset": 91094,
+                    "startOffset": 91084,
                     "endLine": 1205,
                     "endColumn": 12,
-                    "endOffset": 91729
+                    "endOffset": 91719
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -5999,10 +5999,10 @@
                 "to": {
                     "startLine": 1206,
                     "startColumn": 4,
-                    "startOffset": 91734,
+                    "startOffset": 91724,
                     "endLine": 1214,
                     "endColumn": 12,
-                    "endOffset": 92353
+                    "endOffset": 92343
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6020,10 +6020,10 @@
                 "to": {
                     "startLine": 1215,
                     "startColumn": 4,
-                    "startOffset": 92358,
+                    "startOffset": 92348,
                     "endLine": 1216,
                     "endColumn": 12,
-                    "endOffset": 92466
+                    "endOffset": 92456
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6041,10 +6041,10 @@
                 "to": {
                     "startLine": 1217,
                     "startColumn": 4,
-                    "startOffset": 92471,
+                    "startOffset": 92461,
                     "endLine": 1220,
                     "endColumn": 12,
-                    "endOffset": 92695
+                    "endOffset": 92685
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6062,10 +6062,10 @@
                 "to": {
                     "startLine": 1221,
                     "startColumn": 4,
-                    "startOffset": 92700,
+                    "startOffset": 92690,
                     "endLine": 1224,
                     "endColumn": 12,
-                    "endOffset": 93033
+                    "endOffset": 93023
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6083,10 +6083,10 @@
                 "to": {
                     "startLine": 1225,
                     "startColumn": 4,
-                    "startOffset": 93038,
+                    "startOffset": 93028,
                     "endLine": 1227,
                     "endColumn": 12,
-                    "endOffset": 93193
+                    "endOffset": 93183
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6104,10 +6104,10 @@
                 "to": {
                     "startLine": 1228,
                     "startColumn": 4,
-                    "startOffset": 93198,
+                    "startOffset": 93188,
                     "endLine": 1230,
                     "endColumn": 12,
-                    "endOffset": 93345
+                    "endOffset": 93335
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6125,10 +6125,10 @@
                 "to": {
                     "startLine": 1231,
                     "startColumn": 4,
-                    "startOffset": 93350,
+                    "startOffset": 93340,
                     "endLine": 1233,
                     "endColumn": 12,
-                    "endOffset": 93516
+                    "endOffset": 93506
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6146,10 +6146,10 @@
                 "to": {
                     "startLine": 1234,
                     "startColumn": 4,
-                    "startOffset": 93521,
+                    "startOffset": 93511,
                     "endLine": 1236,
                     "endColumn": 12,
-                    "endOffset": 93683
+                    "endOffset": 93673
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6167,10 +6167,10 @@
                 "to": {
                     "startLine": 1237,
                     "startColumn": 4,
-                    "startOffset": 93688,
+                    "startOffset": 93678,
                     "endLine": 1240,
                     "endColumn": 12,
-                    "endOffset": 93926
+                    "endOffset": 93916
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6188,10 +6188,10 @@
                 "to": {
                     "startLine": 1241,
                     "startColumn": 4,
-                    "startOffset": 93931,
+                    "startOffset": 93921,
                     "endLine": 1243,
                     "endColumn": 12,
-                    "endOffset": 94096
+                    "endOffset": 94086
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6209,10 +6209,10 @@
                 "to": {
                     "startLine": 1244,
                     "startColumn": 4,
-                    "startOffset": 94101,
+                    "startOffset": 94091,
                     "endLine": 1246,
                     "endColumn": 12,
-                    "endOffset": 94269
+                    "endOffset": 94259
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6230,10 +6230,10 @@
                 "to": {
                     "startLine": 1247,
                     "startColumn": 4,
-                    "startOffset": 94274,
+                    "startOffset": 94264,
                     "endLine": 1249,
                     "endColumn": 12,
-                    "endOffset": 94440
+                    "endOffset": 94430
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6251,10 +6251,10 @@
                 "to": {
                     "startLine": 1250,
                     "startColumn": 4,
-                    "startOffset": 94445,
+                    "startOffset": 94435,
                     "endLine": 1253,
                     "endColumn": 12,
-                    "endOffset": 94714
+                    "endOffset": 94704
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6272,10 +6272,10 @@
                 "to": {
                     "startLine": 1254,
                     "startColumn": 4,
-                    "startOffset": 94719,
+                    "startOffset": 94709,
                     "endLine": 1256,
                     "endColumn": 12,
-                    "endOffset": 94913
+                    "endOffset": 94903
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6293,10 +6293,10 @@
                 "to": {
                     "startLine": 1257,
                     "startColumn": 4,
-                    "startOffset": 94918,
+                    "startOffset": 94908,
                     "endLine": 1259,
                     "endColumn": 12,
-                    "endOffset": 95160
+                    "endOffset": 95150
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6314,9 +6314,9 @@
                 "to": {
                     "startLine": 1260,
                     "startColumn": 4,
-                    "startOffset": 95165,
+                    "startOffset": 95155,
                     "endColumn": 83,
-                    "endOffset": 95244
+                    "endOffset": 95234
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6333,9 +6333,9 @@
                 "to": {
                     "startLine": 1261,
                     "startColumn": 4,
-                    "startOffset": 95249,
+                    "startOffset": 95239,
                     "endColumn": 95,
-                    "endOffset": 95340
+                    "endOffset": 95330
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6352,9 +6352,9 @@
                 "to": {
                     "startLine": 1262,
                     "startColumn": 4,
-                    "startOffset": 95345,
+                    "startOffset": 95335,
                     "endColumn": 95,
-                    "endOffset": 95436
+                    "endOffset": 95426
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6371,9 +6371,9 @@
                 "to": {
                     "startLine": 1263,
                     "startColumn": 4,
-                    "startOffset": 95441,
+                    "startOffset": 95431,
                     "endColumn": 97,
-                    "endOffset": 95534
+                    "endOffset": 95524
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6390,9 +6390,9 @@
                 "to": {
                     "startLine": 1264,
                     "startColumn": 4,
-                    "startOffset": 95539,
+                    "startOffset": 95529,
                     "endColumn": 99,
-                    "endOffset": 95634
+                    "endOffset": 95624
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6409,9 +6409,9 @@
                 "to": {
                     "startLine": 1265,
                     "startColumn": 4,
-                    "startOffset": 95639,
+                    "startOffset": 95629,
                     "endColumn": 101,
-                    "endOffset": 95736
+                    "endOffset": 95726
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6428,9 +6428,9 @@
                 "to": {
                     "startLine": 1266,
                     "startColumn": 4,
-                    "startOffset": 95741,
+                    "startOffset": 95731,
                     "endColumn": 101,
-                    "endOffset": 95838
+                    "endOffset": 95828
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6447,9 +6447,9 @@
                 "to": {
                     "startLine": 1267,
                     "startColumn": 4,
-                    "startOffset": 95843,
+                    "startOffset": 95833,
                     "endColumn": 101,
-                    "endOffset": 95940
+                    "endOffset": 95930
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6466,9 +6466,9 @@
                 "to": {
                     "startLine": 1268,
                     "startColumn": 4,
-                    "startOffset": 95945,
+                    "startOffset": 95935,
                     "endColumn": 101,
-                    "endOffset": 96042
+                    "endOffset": 96032
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6485,9 +6485,9 @@
                 "to": {
                     "startLine": 1269,
                     "startColumn": 4,
-                    "startOffset": 96047,
+                    "startOffset": 96037,
                     "endColumn": 101,
-                    "endOffset": 96144
+                    "endOffset": 96134
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6504,9 +6504,9 @@
                 "to": {
                     "startLine": 1270,
                     "startColumn": 4,
-                    "startOffset": 96149,
+                    "startOffset": 96139,
                     "endColumn": 99,
-                    "endOffset": 96244
+                    "endOffset": 96234
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6523,9 +6523,9 @@
                 "to": {
                     "startLine": 1271,
                     "startColumn": 4,
-                    "startOffset": 96249,
+                    "startOffset": 96239,
                     "endColumn": 95,
-                    "endOffset": 96340
+                    "endOffset": 96330
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6542,9 +6542,9 @@
                 "to": {
                     "startLine": 1272,
                     "startColumn": 4,
-                    "startOffset": 96345,
+                    "startOffset": 96335,
                     "endColumn": 111,
-                    "endOffset": 96452
+                    "endOffset": 96442
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6561,9 +6561,9 @@
                 "to": {
                     "startLine": 1273,
                     "startColumn": 4,
-                    "startOffset": 96457,
+                    "startOffset": 96447,
                     "endColumn": 128,
-                    "endOffset": 96581
+                    "endOffset": 96571
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6580,9 +6580,9 @@
                 "to": {
                     "startLine": 1274,
                     "startColumn": 4,
-                    "startOffset": 96586,
+                    "startOffset": 96576,
                     "endColumn": 122,
-                    "endOffset": 96704
+                    "endOffset": 96694
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6599,10 +6599,10 @@
                 "to": {
                     "startLine": 1275,
                     "startColumn": 4,
-                    "startOffset": 96709,
+                    "startOffset": 96699,
                     "endLine": 1276,
                     "endColumn": 12,
-                    "endOffset": 96858
+                    "endOffset": 96848
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6620,10 +6620,10 @@
                 "to": {
                     "startLine": 1277,
                     "startColumn": 4,
-                    "startOffset": 96863,
+                    "startOffset": 96853,
                     "endLine": 1278,
                     "endColumn": 12,
-                    "endOffset": 97012
+                    "endOffset": 97002
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6641,9 +6641,9 @@
                 "to": {
                     "startLine": 1279,
                     "startColumn": 4,
-                    "startOffset": 97017,
+                    "startOffset": 97007,
                     "endColumn": 97,
-                    "endOffset": 97110
+                    "endOffset": 97100
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6660,9 +6660,9 @@
                 "to": {
                     "startLine": 1280,
                     "startColumn": 4,
-                    "startOffset": 97115,
+                    "startOffset": 97105,
                     "endColumn": 113,
-                    "endOffset": 97224
+                    "endOffset": 97214
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6679,9 +6679,9 @@
                 "to": {
                     "startLine": 1281,
                     "startColumn": 4,
-                    "startOffset": 97229,
+                    "startOffset": 97219,
                     "endColumn": 93,
-                    "endOffset": 97318
+                    "endOffset": 97308
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6698,10 +6698,10 @@
                 "to": {
                     "startLine": 1282,
                     "startColumn": 4,
-                    "startOffset": 97323,
+                    "startOffset": 97313,
                     "endLine": 1283,
                     "endColumn": 12,
-                    "endOffset": 97458
+                    "endOffset": 97448
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6719,10 +6719,10 @@
                 "to": {
                     "startLine": 1284,
                     "startColumn": 4,
-                    "startOffset": 97463,
+                    "startOffset": 97453,
                     "endLine": 1285,
                     "endColumn": 12,
-                    "endOffset": 97592
+                    "endOffset": 97582
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6740,9 +6740,9 @@
                 "to": {
                     "startLine": 1286,
                     "startColumn": 4,
-                    "startOffset": 97597,
+                    "startOffset": 97587,
                     "endColumn": 95,
-                    "endOffset": 97688
+                    "endOffset": 97678
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6759,9 +6759,9 @@
                 "to": {
                     "startLine": 1287,
                     "startColumn": 4,
-                    "startOffset": 97693,
+                    "startOffset": 97683,
                     "endColumn": 111,
-                    "endOffset": 97800
+                    "endOffset": 97790
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6778,9 +6778,9 @@
                 "to": {
                     "startLine": 1288,
                     "startColumn": 4,
-                    "startOffset": 97805,
+                    "startOffset": 97795,
                     "endColumn": 99,
-                    "endOffset": 97900
+                    "endOffset": 97890
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6797,9 +6797,9 @@
                 "to": {
                     "startLine": 1289,
                     "startColumn": 4,
-                    "startOffset": 97905,
+                    "startOffset": 97895,
                     "endColumn": 115,
-                    "endOffset": 98016
+                    "endOffset": 98006
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6816,9 +6816,9 @@
                 "to": {
                     "startLine": 1290,
                     "startColumn": 4,
-                    "startOffset": 98021,
+                    "startOffset": 98011,
                     "endColumn": 95,
-                    "endOffset": 98112
+                    "endOffset": 98102
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6835,9 +6835,9 @@
                 "to": {
                     "startLine": 1291,
                     "startColumn": 4,
-                    "startOffset": 98117,
+                    "startOffset": 98107,
                     "endColumn": 111,
-                    "endOffset": 98224
+                    "endOffset": 98214
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6854,10 +6854,10 @@
                 "to": {
                     "startLine": 1292,
                     "startColumn": 4,
-                    "startOffset": 98229,
+                    "startOffset": 98219,
                     "endLine": 1293,
                     "endColumn": 12,
-                    "endOffset": 98364
+                    "endOffset": 98354
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6875,10 +6875,10 @@
                 "to": {
                     "startLine": 1294,
                     "startColumn": 4,
-                    "startOffset": 98369,
+                    "startOffset": 98359,
                     "endLine": 1295,
                     "endColumn": 12,
-                    "endOffset": 98512
+                    "endOffset": 98502
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6896,10 +6896,10 @@
                 "to": {
                     "startLine": 1296,
                     "startColumn": 4,
-                    "startOffset": 98517,
+                    "startOffset": 98507,
                     "endLine": 1297,
                     "endColumn": 12,
-                    "endOffset": 98676
+                    "endOffset": 98666
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6917,10 +6917,10 @@
                 "to": {
                     "startLine": 1298,
                     "startColumn": 4,
-                    "startOffset": 98681,
+                    "startOffset": 98671,
                     "endLine": 1299,
                     "endColumn": 12,
-                    "endOffset": 98818
+                    "endOffset": 98808
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6938,10 +6938,10 @@
                 "to": {
                     "startLine": 1300,
                     "startColumn": 4,
-                    "startOffset": 98823,
+                    "startOffset": 98813,
                     "endLine": 1301,
                     "endColumn": 12,
-                    "endOffset": 98976
+                    "endOffset": 98966
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6959,10 +6959,10 @@
                 "to": {
                     "startLine": 1302,
                     "startColumn": 4,
-                    "startOffset": 98981,
+                    "startOffset": 98971,
                     "endLine": 1303,
                     "endColumn": 12,
-                    "endOffset": 99126
+                    "endOffset": 99116
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6980,9 +6980,9 @@
                 "to": {
                     "startLine": 1304,
                     "startColumn": 4,
-                    "startOffset": 99131,
+                    "startOffset": 99121,
                     "endColumn": 140,
-                    "endOffset": 99267
+                    "endOffset": 99257
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -6999,10 +6999,10 @@
                 "to": {
                     "startLine": 1305,
                     "startColumn": 4,
-                    "startOffset": 99272,
+                    "startOffset": 99262,
                     "endLine": 1306,
                     "endColumn": 12,
-                    "endOffset": 99411
+                    "endOffset": 99401
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7020,9 +7020,9 @@
                 "to": {
                     "startLine": 1307,
                     "startColumn": 4,
-                    "startOffset": 99416,
+                    "startOffset": 99406,
                     "endColumn": 134,
-                    "endOffset": 99546
+                    "endOffset": 99536
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7039,10 +7039,10 @@
                 "to": {
                     "startLine": 1308,
                     "startColumn": 4,
-                    "startOffset": 99551,
+                    "startOffset": 99541,
                     "endLine": 1309,
                     "endColumn": 12,
-                    "endOffset": 99682
+                    "endOffset": 99672
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7060,10 +7060,10 @@
                 "to": {
                     "startLine": 1310,
                     "startColumn": 4,
-                    "startOffset": 99687,
+                    "startOffset": 99677,
                     "endLine": 1311,
                     "endColumn": 12,
-                    "endOffset": 99824
+                    "endOffset": 99814
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7081,10 +7081,10 @@
                 "to": {
                     "startLine": 1312,
                     "startColumn": 4,
-                    "startOffset": 99829,
+                    "startOffset": 99819,
                     "endLine": 1313,
                     "endColumn": 12,
-                    "endOffset": 99966
+                    "endOffset": 99956
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7102,9 +7102,9 @@
                 "to": {
                     "startLine": 1314,
                     "startColumn": 4,
-                    "startOffset": 99971,
+                    "startOffset": 99961,
                     "endColumn": 111,
-                    "endOffset": 100078
+                    "endOffset": 100068
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7121,9 +7121,9 @@
                 "to": {
                     "startLine": 1315,
                     "startColumn": 4,
-                    "startOffset": 100083,
+                    "startOffset": 100073,
                     "endColumn": 139,
-                    "endOffset": 100218
+                    "endOffset": 100208
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7140,9 +7140,9 @@
                 "to": {
                     "startLine": 1316,
                     "startColumn": 4,
-                    "startOffset": 100223,
+                    "startOffset": 100213,
                     "endColumn": 67,
-                    "endOffset": 100286
+                    "endOffset": 100276
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7159,9 +7159,9 @@
                 "to": {
                     "startLine": 1317,
                     "startColumn": 4,
-                    "startOffset": 100291,
+                    "startOffset": 100281,
                     "endColumn": 72,
-                    "endOffset": 100359
+                    "endOffset": 100349
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7178,9 +7178,9 @@
                 "to": {
                     "startLine": 1318,
                     "startColumn": 4,
-                    "startOffset": 100364,
+                    "startOffset": 100354,
                     "endColumn": 73,
-                    "endOffset": 100433
+                    "endOffset": 100423
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7197,9 +7197,9 @@
                 "to": {
                     "startLine": 1319,
                     "startColumn": 4,
-                    "startOffset": 100438,
+                    "startOffset": 100428,
                     "endColumn": 72,
-                    "endOffset": 100506
+                    "endOffset": 100496
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7216,9 +7216,9 @@
                 "to": {
                     "startLine": 1320,
                     "startColumn": 4,
-                    "startOffset": 100511,
+                    "startOffset": 100501,
                     "endColumn": 73,
-                    "endOffset": 100580
+                    "endOffset": 100570
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7235,10 +7235,10 @@
                 "to": {
                     "startLine": 1321,
                     "startColumn": 4,
-                    "startOffset": 100585,
+                    "startOffset": 100575,
                     "endLine": 1322,
                     "endColumn": 12,
-                    "endOffset": 100726
+                    "endOffset": 100716
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7256,10 +7256,10 @@
                 "to": {
                     "startLine": 1323,
                     "startColumn": 4,
-                    "startOffset": 100731,
+                    "startOffset": 100721,
                     "endLine": 1324,
                     "endColumn": 12,
-                    "endOffset": 100870
+                    "endOffset": 100860
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7277,10 +7277,10 @@
                 "to": {
                     "startLine": 1325,
                     "startColumn": 4,
-                    "startOffset": 100875,
+                    "startOffset": 100865,
                     "endLine": 1326,
                     "endColumn": 12,
-                    "endOffset": 101008
+                    "endOffset": 100998
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7298,9 +7298,9 @@
                 "to": {
                     "startLine": 1327,
                     "startColumn": 4,
-                    "startOffset": 101013,
+                    "startOffset": 101003,
                     "endColumn": 65,
-                    "endOffset": 101074
+                    "endOffset": 101064
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7317,9 +7317,9 @@
                 "to": {
                     "startLine": 1328,
                     "startColumn": 4,
-                    "startOffset": 101079,
+                    "startOffset": 101069,
                     "endColumn": 89,
-                    "endOffset": 101164
+                    "endOffset": 101154
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7336,9 +7336,9 @@
                 "to": {
                     "startLine": 1329,
                     "startColumn": 4,
-                    "startOffset": 101169,
+                    "startOffset": 101159,
                     "endColumn": 79,
-                    "endOffset": 101244
+                    "endOffset": 101234
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7355,9 +7355,9 @@
                 "to": {
                     "startLine": 1330,
                     "startColumn": 4,
-                    "startOffset": 101249,
+                    "startOffset": 101239,
                     "endColumn": 91,
-                    "endOffset": 101336
+                    "endOffset": 101326
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7374,9 +7374,9 @@
                 "to": {
                     "startLine": 1331,
                     "startColumn": 4,
-                    "startOffset": 101341,
+                    "startOffset": 101331,
                     "endColumn": 97,
-                    "endOffset": 101434
+                    "endOffset": 101424
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7393,10 +7393,10 @@
                 "to": {
                     "startLine": 1332,
                     "startColumn": 4,
-                    "startOffset": 101439,
+                    "startOffset": 101429,
                     "endLine": 1333,
                     "endColumn": 12,
-                    "endOffset": 101544
+                    "endOffset": 101534
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7414,9 +7414,9 @@
                 "to": {
                     "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 101549,
+                    "startOffset": 101539,
                     "endColumn": 77,
-                    "endOffset": 101622
+                    "endOffset": 101612
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7433,9 +7433,9 @@
                 "to": {
                     "startLine": 1335,
                     "startColumn": 4,
-                    "startOffset": 101627,
+                    "startOffset": 101617,
                     "endColumn": 105,
-                    "endOffset": 101728
+                    "endOffset": 101718
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7452,9 +7452,9 @@
                 "to": {
                     "startLine": 1336,
                     "startColumn": 4,
-                    "startOffset": 101733,
+                    "startOffset": 101723,
                     "endColumn": 91,
-                    "endOffset": 101820
+                    "endOffset": 101810
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7471,9 +7471,9 @@
                 "to": {
                     "startLine": 1337,
                     "startColumn": 4,
-                    "startOffset": 101825,
+                    "startOffset": 101815,
                     "endColumn": 103,
-                    "endOffset": 101924
+                    "endOffset": 101914
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7490,9 +7490,9 @@
                 "to": {
                     "startLine": 1338,
                     "startColumn": 4,
-                    "startOffset": 101929,
+                    "startOffset": 101919,
                     "endColumn": 109,
-                    "endOffset": 102034
+                    "endOffset": 102024
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7509,10 +7509,10 @@
                 "to": {
                     "startLine": 1339,
                     "startColumn": 4,
-                    "startOffset": 102039,
+                    "startOffset": 102029,
                     "endLine": 1340,
                     "endColumn": 12,
-                    "endOffset": 102156
+                    "endOffset": 102146
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7530,10 +7530,10 @@
                 "to": {
                     "startLine": 1341,
                     "startColumn": 4,
-                    "startOffset": 102161,
+                    "startOffset": 102151,
                     "endLine": 1344,
                     "endColumn": 12,
-                    "endOffset": 102319
+                    "endOffset": 102309
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7551,10 +7551,10 @@
                 "to": {
                     "startLine": 1345,
                     "startColumn": 4,
-                    "startOffset": 102324,
+                    "startOffset": 102314,
                     "endLine": 1348,
                     "endColumn": 12,
-                    "endOffset": 102476
+                    "endOffset": 102466
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7572,9 +7572,9 @@
                 "to": {
                     "startLine": 1349,
                     "startColumn": 4,
-                    "startOffset": 102481,
+                    "startOffset": 102471,
                     "endColumn": 79,
-                    "endOffset": 102556
+                    "endOffset": 102546
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7591,9 +7591,9 @@
                 "to": {
                     "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 102561,
+                    "startOffset": 102551,
                     "endColumn": 99,
-                    "endOffset": 102656
+                    "endOffset": 102646
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7610,9 +7610,9 @@
                 "to": {
                     "startLine": 1351,
                     "startColumn": 4,
-                    "startOffset": 102661,
+                    "startOffset": 102651,
                     "endColumn": 89,
-                    "endOffset": 102746
+                    "endOffset": 102736
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7629,9 +7629,9 @@
                 "to": {
                     "startLine": 1352,
                     "startColumn": 4,
-                    "startOffset": 102751,
+                    "startOffset": 102741,
                     "endColumn": 109,
-                    "endOffset": 102856
+                    "endOffset": 102846
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7648,9 +7648,9 @@
                 "to": {
                     "startLine": 1353,
                     "startColumn": 4,
-                    "startOffset": 102861,
+                    "startOffset": 102851,
                     "endColumn": 91,
-                    "endOffset": 102948
+                    "endOffset": 102938
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7667,10 +7667,10 @@
                 "to": {
                     "startLine": 1354,
                     "startColumn": 4,
-                    "startOffset": 102953,
+                    "startOffset": 102943,
                     "endLine": 1355,
                     "endColumn": 12,
-                    "endOffset": 103048
+                    "endOffset": 103038
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7688,10 +7688,10 @@
                 "to": {
                     "startLine": 1356,
                     "startColumn": 4,
-                    "startOffset": 103053,
+                    "startOffset": 103043,
                     "endLine": 1357,
                     "endColumn": 12,
-                    "endOffset": 103160
+                    "endOffset": 103150
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7709,10 +7709,10 @@
                 "to": {
                     "startLine": 1358,
                     "startColumn": 4,
-                    "startOffset": 103165,
+                    "startOffset": 103155,
                     "endLine": 1359,
                     "endColumn": 12,
-                    "endOffset": 103274
+                    "endOffset": 103264
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7730,10 +7730,10 @@
                 "to": {
                     "startLine": 1360,
                     "startColumn": 4,
-                    "startOffset": 103279,
+                    "startOffset": 103269,
                     "endLine": 1361,
                     "endColumn": 12,
-                    "endOffset": 103390
+                    "endOffset": 103380
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7751,10 +7751,10 @@
                 "to": {
                     "startLine": 1362,
                     "startColumn": 4,
-                    "startOffset": 103395,
+                    "startOffset": 103385,
                     "endLine": 1363,
                     "endColumn": 12,
-                    "endOffset": 103506
+                    "endOffset": 103496
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7772,9 +7772,9 @@
                 "to": {
                     "startLine": 1364,
                     "startColumn": 4,
-                    "startOffset": 103511,
+                    "startOffset": 103501,
                     "endColumn": 93,
-                    "endOffset": 103600
+                    "endOffset": 103590
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7791,9 +7791,9 @@
                 "to": {
                     "startLine": 1365,
                     "startColumn": 4,
-                    "startOffset": 103605,
+                    "startOffset": 103595,
                     "endColumn": 113,
-                    "endOffset": 103714
+                    "endOffset": 103704
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7810,9 +7810,9 @@
                 "to": {
                     "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 103719,
+                    "startOffset": 103709,
                     "endColumn": 117,
-                    "endOffset": 103832
+                    "endOffset": 103822
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7829,10 +7829,10 @@
                 "to": {
                     "startLine": 1367,
                     "startColumn": 4,
-                    "startOffset": 103837,
+                    "startOffset": 103827,
                     "endLine": 1368,
                     "endColumn": 12,
-                    "endOffset": 103934
+                    "endOffset": 103924
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7850,10 +7850,10 @@
                 "to": {
                     "startLine": 1369,
                     "startColumn": 4,
-                    "startOffset": 103939,
+                    "startOffset": 103929,
                     "endLine": 1370,
                     "endColumn": 12,
-                    "endOffset": 104054
+                    "endOffset": 104044
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7871,10 +7871,10 @@
                 "to": {
                     "startLine": 1371,
                     "startColumn": 4,
-                    "startOffset": 104059,
+                    "startOffset": 104049,
                     "endLine": 1372,
                     "endColumn": 12,
-                    "endOffset": 104176
+                    "endOffset": 104166
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7892,9 +7892,9 @@
                 "to": {
                     "startLine": 1373,
                     "startColumn": 4,
-                    "startOffset": 104181,
+                    "startOffset": 104171,
                     "endColumn": 81,
-                    "endOffset": 104258
+                    "endOffset": 104248
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7911,9 +7911,9 @@
                 "to": {
                     "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 104263,
+                    "startOffset": 104253,
                     "endColumn": 103,
-                    "endOffset": 104362
+                    "endOffset": 104352
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7930,9 +7930,9 @@
                 "to": {
                     "startLine": 1375,
                     "startColumn": 4,
-                    "startOffset": 104367,
+                    "startOffset": 104357,
                     "endColumn": 119,
-                    "endOffset": 104482
+                    "endOffset": 104472
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7949,9 +7949,9 @@
                 "to": {
                     "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 104487,
+                    "startOffset": 104477,
                     "endColumn": 125,
-                    "endOffset": 104608
+                    "endOffset": 104598
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7968,9 +7968,9 @@
                 "to": {
                     "startLine": 1377,
                     "startColumn": 4,
-                    "startOffset": 104613,
+                    "startOffset": 104603,
                     "endColumn": 93,
-                    "endOffset": 104702
+                    "endOffset": 104692
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -7987,9 +7987,9 @@
                 "to": {
                     "startLine": 1378,
                     "startColumn": 4,
-                    "startOffset": 104707,
+                    "startOffset": 104697,
                     "endColumn": 87,
-                    "endOffset": 104790
+                    "endOffset": 104780
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8006,9 +8006,9 @@
                 "to": {
                     "startLine": 1379,
                     "startColumn": 4,
-                    "startOffset": 104795,
+                    "startOffset": 104785,
                     "endColumn": 111,
-                    "endOffset": 104902
+                    "endOffset": 104892
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8025,9 +8025,9 @@
                 "to": {
                     "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 104907,
+                    "startOffset": 104897,
                     "endColumn": 115,
-                    "endOffset": 105018
+                    "endOffset": 105008
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8044,9 +8044,9 @@
                 "to": {
                     "startLine": 1381,
                     "startColumn": 4,
-                    "startOffset": 105023,
+                    "startOffset": 105013,
                     "endColumn": 121,
-                    "endOffset": 105140
+                    "endOffset": 105130
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8063,9 +8063,9 @@
                 "to": {
                     "startLine": 1382,
                     "startColumn": 4,
-                    "startOffset": 105145,
+                    "startOffset": 105135,
                     "endColumn": 111,
-                    "endOffset": 105252
+                    "endOffset": 105242
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8082,10 +8082,10 @@
                 "to": {
                     "startLine": 1383,
                     "startColumn": 4,
-                    "startOffset": 105257,
+                    "startOffset": 105247,
                     "endLine": 1385,
                     "endColumn": 12,
-                    "endOffset": 105427
+                    "endOffset": 105417
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8103,9 +8103,9 @@
                 "to": {
                     "startLine": 1386,
                     "startColumn": 4,
-                    "startOffset": 105432,
+                    "startOffset": 105422,
                     "endColumn": 115,
-                    "endOffset": 105543
+                    "endOffset": 105533
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8122,10 +8122,10 @@
                 "to": {
                     "startLine": 1387,
                     "startColumn": 4,
-                    "startOffset": 105548,
+                    "startOffset": 105538,
                     "endLine": 1388,
                     "endColumn": 12,
-                    "endOffset": 105641
+                    "endOffset": 105631
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8143,10 +8143,10 @@
                 "to": {
                     "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 105646,
+                    "startOffset": 105636,
                     "endLine": 1390,
                     "endColumn": 12,
-                    "endOffset": 105753
+                    "endOffset": 105743
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8164,10 +8164,10 @@
                 "to": {
                     "startLine": 1391,
                     "startColumn": 4,
-                    "startOffset": 105758,
+                    "startOffset": 105748,
                     "endLine": 1392,
                     "endColumn": 12,
-                    "endOffset": 105877
+                    "endOffset": 105867
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8185,9 +8185,9 @@
                 "to": {
                     "startLine": 1393,
                     "startColumn": 4,
-                    "startOffset": 105882,
+                    "startOffset": 105872,
                     "endColumn": 66,
-                    "endOffset": 105944
+                    "endOffset": 105934
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8204,10 +8204,10 @@
                 "to": {
                     "startLine": 1394,
                     "startColumn": 4,
-                    "startOffset": 105949,
+                    "startOffset": 105939,
                     "endLine": 1395,
                     "endColumn": 12,
-                    "endOffset": 106070
+                    "endOffset": 106060
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8225,9 +8225,9 @@
                 "to": {
                     "startLine": 1396,
                     "startColumn": 4,
-                    "startOffset": 106075,
+                    "startOffset": 106065,
                     "endColumn": 67,
-                    "endOffset": 106138
+                    "endOffset": 106128
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8244,10 +8244,10 @@
                 "to": {
                     "startLine": 1397,
                     "startColumn": 4,
-                    "startOffset": 106143,
+                    "startOffset": 106133,
                     "endLine": 1398,
                     "endColumn": 12,
-                    "endOffset": 106266
+                    "endOffset": 106256
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8265,10 +8265,10 @@
                 "to": {
                     "startLine": 1399,
                     "startColumn": 4,
-                    "startOffset": 106271,
+                    "startOffset": 106261,
                     "endLine": 1400,
                     "endColumn": 12,
-                    "endOffset": 106410
+                    "endOffset": 106400
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8286,10 +8286,10 @@
                 "to": {
                     "startLine": 1401,
                     "startColumn": 4,
-                    "startOffset": 106415,
+                    "startOffset": 106405,
                     "endLine": 1402,
                     "endColumn": 12,
-                    "endOffset": 106538
+                    "endOffset": 106528
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8307,9 +8307,9 @@
                 "to": {
                     "startLine": 1403,
                     "startColumn": 4,
-                    "startOffset": 106543,
+                    "startOffset": 106533,
                     "endColumn": 68,
-                    "endOffset": 106607
+                    "endOffset": 106597
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8326,9 +8326,9 @@
                 "to": {
                     "startLine": 1404,
                     "startColumn": 4,
-                    "startOffset": 106612,
+                    "startOffset": 106602,
                     "endColumn": 94,
-                    "endOffset": 106702
+                    "endOffset": 106692
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8345,9 +8345,9 @@
                 "to": {
                     "startLine": 1405,
                     "startColumn": 4,
-                    "startOffset": 106707,
+                    "startOffset": 106697,
                     "endColumn": 114,
-                    "endOffset": 106817
+                    "endOffset": 106807
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8364,9 +8364,9 @@
                 "to": {
                     "startLine": 1406,
                     "startColumn": 4,
-                    "startOffset": 106822,
+                    "startOffset": 106812,
                     "endColumn": 112,
-                    "endOffset": 106930
+                    "endOffset": 106920
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8383,9 +8383,9 @@
                 "to": {
                     "startLine": 1407,
                     "startColumn": 4,
-                    "startOffset": 106935,
+                    "startOffset": 106925,
                     "endColumn": 98,
-                    "endOffset": 107029
+                    "endOffset": 107019
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8402,9 +8402,9 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 107034,
+                    "startOffset": 107024,
                     "endColumn": 108,
-                    "endOffset": 107138
+                    "endOffset": 107128
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8421,9 +8421,9 @@
                 "to": {
                     "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 107143,
+                    "startOffset": 107133,
                     "endColumn": 110,
-                    "endOffset": 107249
+                    "endOffset": 107239
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8440,9 +8440,9 @@
                 "to": {
                     "startLine": 1410,
                     "startColumn": 4,
-                    "startOffset": 107254,
+                    "startOffset": 107244,
                     "endColumn": 110,
-                    "endOffset": 107360
+                    "endOffset": 107350
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8459,9 +8459,9 @@
                 "to": {
                     "startLine": 1411,
                     "startColumn": 4,
-                    "startOffset": 107365,
+                    "startOffset": 107355,
                     "endColumn": 100,
-                    "endOffset": 107461
+                    "endOffset": 107451
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8478,9 +8478,9 @@
                 "to": {
                     "startLine": 1412,
                     "startColumn": 4,
-                    "startOffset": 107466,
+                    "startOffset": 107456,
                     "endColumn": 104,
-                    "endOffset": 107566
+                    "endOffset": 107556
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8497,10 +8497,10 @@
                 "to": {
                     "startLine": 1413,
                     "startColumn": 4,
-                    "startOffset": 107571,
+                    "startOffset": 107561,
                     "endLine": 1414,
                     "endColumn": 12,
-                    "endOffset": 107678
+                    "endOffset": 107668
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8518,10 +8518,10 @@
                 "to": {
                     "startLine": 1415,
                     "startColumn": 4,
-                    "startOffset": 107683,
+                    "startOffset": 107673,
                     "endLine": 1416,
                     "endColumn": 12,
-                    "endOffset": 107808
+                    "endOffset": 107798
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8539,9 +8539,9 @@
                 "to": {
                     "startLine": 1417,
                     "startColumn": 4,
-                    "startOffset": 107813,
+                    "startOffset": 107803,
                     "endColumn": 90,
-                    "endOffset": 107899
+                    "endOffset": 107889
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8558,9 +8558,9 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 107904,
+                    "startOffset": 107894,
                     "endColumn": 122,
-                    "endOffset": 108022
+                    "endOffset": 108012
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8577,10 +8577,10 @@
                 "to": {
                     "startLine": 1419,
                     "startColumn": 4,
-                    "startOffset": 108027,
+                    "startOffset": 108017,
                     "endLine": 1420,
                     "endColumn": 12,
-                    "endOffset": 108134
+                    "endOffset": 108124
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8598,9 +8598,9 @@
                 "to": {
                     "startLine": 1421,
                     "startColumn": 4,
-                    "startOffset": 108139,
+                    "startOffset": 108129,
                     "endColumn": 85,
-                    "endOffset": 108220
+                    "endOffset": 108210
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8617,9 +8617,9 @@
                 "to": {
                     "startLine": 1422,
                     "startColumn": 4,
-                    "startOffset": 108225,
+                    "startOffset": 108215,
                     "endColumn": 103,
-                    "endOffset": 108324
+                    "endOffset": 108314
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8636,10 +8636,10 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 108329,
+                    "startOffset": 108319,
                     "endLine": 1424,
                     "endColumn": 12,
-                    "endOffset": 108432
+                    "endOffset": 108422
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8657,10 +8657,10 @@
                 "to": {
                     "startLine": 1425,
                     "startColumn": 4,
-                    "startOffset": 108437,
+                    "startOffset": 108427,
                     "endLine": 1426,
                     "endColumn": 12,
-                    "endOffset": 108532
+                    "endOffset": 108522
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8678,10 +8678,10 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 108537,
+                    "startOffset": 108527,
                     "endLine": 1428,
                     "endColumn": 12,
-                    "endOffset": 108650
+                    "endOffset": 108640
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8699,10 +8699,10 @@
                 "to": {
                     "startLine": 1429,
                     "startColumn": 4,
-                    "startOffset": 108655,
+                    "startOffset": 108645,
                     "endLine": 1430,
                     "endColumn": 12,
-                    "endOffset": 108754
+                    "endOffset": 108744
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8720,10 +8720,10 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 108759,
+                    "startOffset": 108749,
                     "endLine": 1432,
                     "endColumn": 12,
-                    "endOffset": 108858
+                    "endOffset": 108848
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8741,10 +8741,10 @@
                 "to": {
                     "startLine": 1433,
                     "startColumn": 4,
-                    "startOffset": 108863,
+                    "startOffset": 108853,
                     "endLine": 1434,
                     "endColumn": 12,
-                    "endOffset": 108984
+                    "endOffset": 108974
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8762,9 +8762,9 @@
                 "to": {
                     "startLine": 1435,
                     "startColumn": 4,
-                    "startOffset": 108989,
+                    "startOffset": 108979,
                     "endColumn": 87,
-                    "endOffset": 109072
+                    "endOffset": 109062
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8781,9 +8781,9 @@
                 "to": {
                     "startLine": 1436,
                     "startColumn": 4,
-                    "startOffset": 109077,
+                    "startOffset": 109067,
                     "endColumn": 89,
-                    "endOffset": 109162
+                    "endOffset": 109152
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8800,9 +8800,9 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 109167,
+                    "startOffset": 109157,
                     "endColumn": 109,
-                    "endOffset": 109272
+                    "endOffset": 109262
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8819,9 +8819,9 @@
                 "to": {
                     "startLine": 1438,
                     "startColumn": 4,
-                    "startOffset": 109277,
+                    "startOffset": 109267,
                     "endColumn": 83,
-                    "endOffset": 109356
+                    "endOffset": 109346
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8838,9 +8838,9 @@
                 "to": {
                     "startLine": 1439,
                     "startColumn": 4,
-                    "startOffset": 109361,
+                    "startOffset": 109351,
                     "endColumn": 53,
-                    "endOffset": 109410
+                    "endOffset": 109400
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8857,9 +8857,9 @@
                 "to": {
                     "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 109415,
+                    "startOffset": 109405,
                     "endColumn": 121,
-                    "endOffset": 109532
+                    "endOffset": 109522
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8876,9 +8876,9 @@
                 "to": {
                     "startLine": 1441,
                     "startColumn": 4,
-                    "startOffset": 109537,
+                    "startOffset": 109527,
                     "endColumn": 105,
-                    "endOffset": 109638
+                    "endOffset": 109628
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8895,9 +8895,9 @@
                 "to": {
                     "startLine": 1442,
                     "startColumn": 4,
-                    "startOffset": 109643,
+                    "startOffset": 109633,
                     "endColumn": 109,
-                    "endOffset": 109748
+                    "endOffset": 109738
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8914,9 +8914,9 @@
                 "to": {
                     "startLine": 1443,
                     "startColumn": 4,
-                    "startOffset": 109753,
+                    "startOffset": 109743,
                     "endColumn": 83,
-                    "endOffset": 109832
+                    "endOffset": 109822
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
@@ -8933,9 +8933,9 @@
                 "to": {
                     "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 109837,
+                    "startOffset": 109827,
                     "endColumn": 125,
-                    "endOffset": 109958
+                    "endOffset": 109948
                 },
                 "from": {
                     "file": "C:\\Users\\HEMKAR\\AndroidStudioProjects\\Parse-Starter-Project-1.13.0\\UberClone\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values\\values.xml",
