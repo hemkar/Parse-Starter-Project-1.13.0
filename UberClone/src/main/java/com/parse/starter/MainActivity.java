@@ -1,6 +1,7 @@
 package com.parse.starter;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
@@ -32,19 +33,38 @@ public class MainActivity extends Activity {
             @Override
             public void done(ParseException e) {
                 if(e==null){
-                    Log.i("myApp","User Logged in");
+                   // Log.i("myApp","User Logged in");
+                    redirectUser();
                 }
             }
         });
 
     }
+    public void redirectUser() {
+
+        if (ParseUser.getCurrentUser().get("riderOrDriver").equals("Rider")) {
+
+            Intent i = new Intent(getApplicationContext(), YourLocation.class);
+            startActivity(i);
+
+        }
+
+    }
+
+   /* public void redirectUser(){
+
+        if(ParseUser.getCurrentUser().get("riderOrDriver").equals("Rider")){
+            Intent i = new Intent(getApplicationContext(),YourLocation.class);
+            startActivity(i);
+        }
+    }*/
 
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
       mriderOrDriverSwitch= (Switch) findViewById(R.id.riderOrDriverSwitch);
-
+      ParseUser.logOut();
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
     getActionBar().hide();
 
@@ -59,8 +79,10 @@ public class MainActivity extends Activity {
                   }
               }
           });
-      }else if(ParseUser.getCurrentUser() !=null){
-          Log.i("myApp","Redirect User");
+      }else if(ParseUser.getCurrentUser().get("riderOrDriver") != null){
+          //Log.i("myApp","Redirect User");
+          Log.i("riderOrDriver",ParseUser.getCurrentUser().toString());
+          redirectUser();
       }
   }
 

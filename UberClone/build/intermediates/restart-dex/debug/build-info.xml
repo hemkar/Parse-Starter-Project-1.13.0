@@ -4,50 +4,30 @@
     api-level="22"
     density="xhdpi"
     format="7"
-    timestamp="9765434513803"
-    token="7129470088421058382"
-    verifier="COMPATIBLE" >
+    timestamp="24495839058622"
+    token="7129470088421058382" >
 
     <task
         name="javac"
-        duration="207" />
+        duration="871" />
     <task
         name="instant-run-dex"
-        duration="995" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="30" />
+        duration="293" />
     <task
         name="verifier"
-        duration="2" />
+        duration="72" />
 
     <artifact
-        location="C:\Users\HEMKAR\AndroidStudioProjects\Parse-Starter-Project-1.13.0\UberClone\build\intermediates\reload-dex\debug\classes.dex"
-        type="RELOAD_DEX" />
+        location="C:\Users\HEMKAR\AndroidStudioProjects\Parse-Starter-Project-1.13.0\UberClone\build\outputs\apk\UberClone-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="7220064716976" >
+    <build timestamp="24495839058622" >
         <artifact
             location="C:\Users\HEMKAR\AndroidStudioProjects\Parse-Starter-Project-1.13.0\UberClone\build\outputs\apk\UberClone-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="7542394849042" >
-        <artifact
-            location="C:\Users\HEMKAR\AndroidStudioProjects\Parse-Starter-Project-1.13.0\UberClone\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-    </build>
-    <build
-        timestamp="9490737433273"
-        verifier="CLASS_ADDED" >
-        <artifact
-            location="C:\Users\HEMKAR\AndroidStudioProjects\Parse-Starter-Project-1.13.0\UberClone\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="9765434513803"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="C:\Users\HEMKAR\AndroidStudioProjects\Parse-Starter-Project-1.13.0\UberClone\build\intermediates\reload-dex\debug\classes.dex"
-            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
