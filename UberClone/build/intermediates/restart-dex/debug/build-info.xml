@@ -4,27 +4,27 @@
     api-level="22"
     density="xhdpi"
     format="7"
-    timestamp="24495839058622"
+    timestamp="2556258676525"
     token="7129470088421058382" >
 
     <task
         name="javac"
-        duration="871" />
+        duration="11231" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="293" />
+        duration="2058" />
     <task
         name="verifier"
-        duration="72" />
+        duration="740" />
 
     <artifact
         location="C:\Users\HEMKAR\AndroidStudioProjects\Parse-Starter-Project-1.13.0\UberClone\build\outputs\apk\UberClone-debug.apk"
         type="MAIN" />
 
-    <build timestamp="24495839058622" >
+    <build timestamp="2556258676525" >
         <artifact
             location="C:\Users\HEMKAR\AndroidStudioProjects\Parse-Starter-Project-1.13.0\UberClone\build\outputs\apk\UberClone-debug.apk"
             type="MAIN" />

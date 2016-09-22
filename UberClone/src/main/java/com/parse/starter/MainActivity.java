@@ -7,6 +7,7 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.Button;
 import android.widget.Switch;
 
 import com.parse.LogInCallback;
@@ -19,6 +20,7 @@ import com.parse.SaveCallback;
 
 public class MainActivity extends Activity {
     Switch mriderOrDriverSwitch;
+
 
     public void getStarted(View view){
 
@@ -51,6 +53,7 @@ public class MainActivity extends Activity {
 
     }
 
+
    /* public void redirectUser(){
 
         if(ParseUser.getCurrentUser().get("riderOrDriver").equals("Rider")){
@@ -64,7 +67,7 @@ public class MainActivity extends Activity {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
       mriderOrDriverSwitch= (Switch) findViewById(R.id.riderOrDriverSwitch);
-      ParseUser.logOut();
+      //ParseUser.logOut();
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
     getActionBar().hide();
 
